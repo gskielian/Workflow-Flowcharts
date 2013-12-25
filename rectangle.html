@@ -47,8 +47,8 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("flare.json", function(error, flare) {
-  root = flare;
+d3.json("flow.json", function(error, flow) {
+  root = flow;
   root.x0 = height / 2;
   root.y0 = 0;
 
