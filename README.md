@@ -15,3 +15,4 @@ This flowchart uses sample code from: http://bl.ocks.org/mbostock/4063550
 for radial-tree rendering.
 
 
+the collapseable cartesian (rectangular) flowchart template uses sample code from: http://bl.ocks.org/mbostock/4339083
