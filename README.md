@@ -19,6 +19,7 @@ the collapseable cartesian (rectangular) flowchart template uses sample code fro
 
 ## Directory Structure
 
+```
 ./
 ├── flows
 │   └── flow.json
@@ -29,6 +30,7 @@ the collapseable cartesian (rectangular) flowchart template uses sample code fro
 └── templates
     ├── radial_example.html
     └── rectangle_example.html
+    ```
 
 
 * flows
