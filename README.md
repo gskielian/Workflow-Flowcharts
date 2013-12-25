@@ -16,3 +16,20 @@ for radial-tree rendering.
 
 
 the collapseable cartesian (rectangular) flowchart template uses sample code from: http://bl.ocks.org/mbostock/4339083
+
+## Directory Structure
+
+``` bash
+.
+├── flows
+│   └── flow.json
+├── index.html
+├── radial.html
+├── README.md
+├── rectangle.html
+└── templates
+    ├── radial_example.html
+    └── rectangle_example.html
+
+```
+
