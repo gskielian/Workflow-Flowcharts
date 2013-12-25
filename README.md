@@ -1,7 +1,7 @@
 Workflow-FlowCharts
 ===================
 
-Preview here:
+Preview here: http://gskielian.github.io/WorkFlow-FlowCharts/index.html
 
 A flowchart of workflows written in d3.js
 
@@ -19,7 +19,7 @@ the collapseable cartesian (rectangular) flowchart template uses sample code fro
 
 ## Directory Structure
 
-```
+```sh
 ./
 ├── flows
 │   └── flow.json
@@ -30,7 +30,7 @@ the collapseable cartesian (rectangular) flowchart template uses sample code fro
 └── templates
     ├── radial_example.html
     └── rectangle_example.html
-    ```
+```
 
 
 * flows
