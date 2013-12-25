@@ -19,7 +19,6 @@ the collapseable cartesian (rectangular) flowchart template uses sample code fro
 
 ## Directory Structure
 
-``` bash
 .
 ├── flows
 │   └── flow.json
@@ -31,5 +30,10 @@ the collapseable cartesian (rectangular) flowchart template uses sample code fro
     ├── radial_example.html
     └── rectangle_example.html
 
-```
 
+* flows
+  * workflows are stored in json here
+* templates
+  * different representation templates compatible with directory tree
+* .
+  * place actual graphs here for now
