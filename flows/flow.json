@@ -2,19 +2,30 @@
  "name": "flow",
  "children": [
   {
-   "name": "analytics",
+   "name": "Youtube",
    "children": [
     {
-     "name": "cluster",
-     "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
+     "name": "getting monetization started",
+     "children": [{
+       "name": "https://www.youtube.com/yt/creators/creator-benefits.html",
+       "children" : [{
+           "name" : "verify your channel",
+           "children" : [
+               {
+                 "name" : "follow the steps",
+                 "children" : [{ "name" : "click on '$' button  profit" }]
+               }
+             ]}]
+     }]
+   }
+       ,
       {"name": "CommunityStructure", "size": 3812},
       {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "common trello", "size": 743000}
      ]
     },
     {
-     "name": "graph",
+     "name": "creating videos",
      "children": [
       {"name": "BetweennessCentrality", "size": 3534},
       {"name": "LinkDistance", "size": 5731},
