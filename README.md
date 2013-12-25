@@ -1,7 +1,7 @@
 Workflow-FlowCharts
 ===================
 
-Preview here: http://gskielian.github.io/WorkFlow-FlowCharts/index.html
+Preview here: http://gskielian.github.io/Workflow-Flowcharts/index.html
 
 A flowchart of workflows written in d3.js
 
